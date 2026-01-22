@@ -5,8 +5,6 @@ FitLife is a student-focused health and fitness project designed to promote a he
 ##  Live Web App
 👉 https://rabeyabinte.github.io/FITLIFE/
 
-##  GitHub Repository
-👉 https://github.com/rabeyAbinte/FITLIFE
 ##  Features
 - Health & fitness related information
 - Simple and clean user interface
