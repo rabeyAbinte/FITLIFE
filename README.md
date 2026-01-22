@@ -1,8 +1,8 @@
-# HealthMate 🏥💚
+# FitLife 💚
 
-HealthMate is a student-focused health and fitness project designed to promote a healthy lifestyle through simple, easy-to-use features. This project is developed as part of an academic assignment.
+FitLife is a student-focused health and fitness project designed to promote a healthy lifestyle through simple, easy-to-use features. This project is developed as part of an academic assignment.
 
-## 🔗 Live Web App
+##  Live Web App
 👉 https://rabeyabinte.github.io/FITLIFE/
 
 ##  GitHub Repository
