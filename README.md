@@ -1,26 +1,29 @@
-# FitLife – Student Health & Fitness Website
+# HealthMate 🏥💚
 
-##  Project Overview
-FitLife is a front-end based health and fitness website designed especially for university students.  
-The goal of this project is to help students maintain a healthy lifestyle despite busy schedules and academic pressure.
+HealthMate is a student-focused health and fitness project designed to promote a healthy lifestyle through simple, easy-to-use features. This project is developed as part of an academic assignment.
 
-The website provides beginner-friendly fitness guidance, healthy diet tips, and basic health tools in a simple and user-friendly interface.
+## 🔗 Live Web App
+👉 https://rabeyabinte.github.io/FITLIFE/
 
-##  Objectives
-- Promote healthy lifestyle awareness among university students
-- Provide basic fitness and diet guidance
-- Offer simple health tools like BMI calculator
-- Create a clean, responsive, and easy-to-use front-end website
-
-##  Technologies Used
-- **HTML5** – Structure of the website  
-- **CSS3** – Styling and layout design  
-- **JavaScript (ES6)** – Interactivity and logic  
+##  GitHub Repository
+👉 https://github.com/rabeyAbinte/HealthMate
 
 ##  Features
-- Responsive navigation bar
-- Smooth scrolling between sections
-- BMI (Body Mass Index) Calculator
-- Fitness tips for beginners
-- Healthy diet guidance
-- Clean and student-friendly UI design
+- Health & fitness related information
+- Simple and clean user interface
+- Beginner-friendly design
+- BMI Calculator
+- Fitness and diet guidance
+
+##  Technologies Used
+- HTML5  
+- CSS3  
+- JavaScript  
+
+##  Author
+**Rabeya Akter**  
+Department: CSE & CSIT  
+Shanto Mariam University of Creative Technology  
+
+##  Notes
+This project is created for educational purposes.
