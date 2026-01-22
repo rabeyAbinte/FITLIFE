@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FitLife - Stay Healthy</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    
+    <nav class="navbar">
+        <div class="logo">FitLife</div>
+        <div class="hamburger">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+        </div>
+
+        <ul class="nav-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="fitness.html">Fitness Tips</a></li>
+            <li><a href="diet.html">Diet Plans</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+    
+    <section class="hero">
+        <h1>Stay Fit, Stay Healthy</h1>
+        <p>A simple fitness and diet guide for university students</p>
+    </section>
+    
+    <section class="intro">
+        <h2>Welcome to FitLife</h2>
+        <p>
+            FitLife is a beginner-friendly health and fitness website specially
+            designed for university students. It provides simple fitness tips,
+            healthy diet guidance, and lifestyle advice in a clean and easy way.
+        </p>
+    </section>
+      <section class="fitness">
+        <h2>Fitness Tips</h2>
+
+        <div class="fitness-cards">
+            <div class="card">
+                <img src="images/exercise (1).jpg" alt="Exercise">
+                <h3>Daily Exercise</h3>
+                <p>Exercise at least 30 minutes daily to stay active.</p>
+            </div>
+
+            <div class="card">
+                <img src="images/warmup and stretching (1).jpg" alt="Warmup">
+                <h3>Warm Up</h3>
+                <p>Warm up before workouts to avoid injuries.</p>
+            </div>
+        </div>
+    </section>
+    
+    <section class="diet">
+        <h2>Healthy Diet Plans</h2>
+
+        <div class="diet-cards">
+            <div class="card">
+                <img src="images/breakfast (1).jpg" alt="Breakfast">
+                <h3>Healthy Breakfast</h3>
+                <p>Start your day with nutritious food.</p>
+            </div>
+
+            <div class="card">
+                <img src="images/lunch.jpg" alt="Lunch">
+                <h3>Balanced Lunch</h3>
+                <p>Eat balanced meals with protein and vegetables.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===== BMI CALCULATOR SECTION ===== -->
+    <section class="bmi-calculator">
+        <h2>BMI Calculator</h2>
+        <p>Check your Body Mass Index (BMI) to understand your health status.</p>
+        <div class="bmi-container">
+            <div class="bmi-form">
+                <div class="input-group">
+                    <label for="weight">Weight (kg):</label>
+                    <input type="number" id="weight" placeholder="Enter weight in kg" required>
+                </div>
+                <div class="input-group">
+                    <label for="height">Height (cm):</label>
+                    <input type="number" id="height" placeholder="Enter height in cm" required>
+                </div>
+                <button id="calculate-bmi">Calculate BMI</button>
+            </div>
+            <div id="bmi-result" class="bmi-result" style="display: none;">
+                <h3>Your BMI: <span id="bmi-value">0</span></h3>
+                <p id="bmi-status"></p>
+            </div>
+        </div>
+    </section>
+
+    
+     <footer class="footer">
+    <p>© 2025 FitLife | Designed for University Students</p>
+</footer>
+
+
+</body>
+</html>
+    <script src="js/script.js"></script>
+
+</body>
+
+</html>
